@@ -20,4 +20,4 @@ ICD: Q87.8
 
 Another film that deals with facial deformity is [Wonder](jeon-eunsu.md). The story follows Auggie, a boy born with a congenital facial difference, as he gradually learns to accept himself in the face of societal prejudice. In the early scenes, the music uses low, uneasy string tones and a slow tempo to reflect his fear and anxiety. However, as the story progresses, the music transitions into brighter piano melodies and major harmonies, symbolizing psychological recovery and hope. For example, during the scene where Auggie finally stands confidently on the school stage, the music shifts into warm and open harmonies, marking the peak of his self-acceptance. This musical approach contrasts with Phantom, which portrays internal pain and isolation through dark and tense tones. Thus, while both works explore the inner world of marginalized individuals, they express it through fundamentally different musical moods.
 
- <img src="./jang-ayeong.png" alt="phantom" style="width:25%;" />
+ <img src="./jang-ayeong.png" alt="phantom" style="width:40%;" />
