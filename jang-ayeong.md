@@ -8,7 +8,7 @@ ICD: Q87.8
 
 # Phantom
 
-“The Music of the Night” appears after Christine follows the Phantom into his underground lair. In this scene, the Phantom reveals both his world and his inner self to Christine for the first time. The song portrays the Phantom’s disability not as a mere tragedy but as the source of his artistic depth and emotional complexity. The dark harmonies mirror his isolation, while the lush melodies express his yearning for beauty and acceptance. Through its soundscape, the song turns deformity and alienation into a profound artistic statement about the human need to be seen, loved, and understood.
+[“The Music of the Night”](https://youtu.be/EBDxEHzidx0?si=cVtUmO-PxsWa3ddB) appears after Christine follows the Phantom into his underground lair. In this scene, the Phantom reveals both his world and his inner self to Christine for the first time. The song portrays the Phantom’s disability not as a mere tragedy but as the source of his artistic depth and emotional complexity. The dark harmonies mirror his isolation, while the lush melodies express his yearning for beauty and acceptance. Through its soundscape, the song turns deformity and alienation into a profound artistic statement about the human need to be seen, loved, and understood.
 
 
 # 팬텀
