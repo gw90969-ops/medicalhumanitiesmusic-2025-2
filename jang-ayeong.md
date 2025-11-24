@@ -4,6 +4,8 @@ Year: 1991
 Genre: Musical 
 Disease: Craniofacial deformity
 ICD: Q87.8
+Composer: Andrew Lloyd Webber
+The original novel: Gaston Leroux
 ---
 
 # Phantom
