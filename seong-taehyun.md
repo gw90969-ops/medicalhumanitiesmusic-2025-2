@@ -1,5 +1,5 @@
 ---
-Title: The Kng's speech
+Title: The King's speech
 Year: 2010
 Genre: Film
 Creator: David saideler
