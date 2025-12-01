@@ -5,7 +5,7 @@ Genre: Film
 Creator: David saideler
 Disease: Stuttering
 ICD: F98.5
-Music: ymphony No. 7 in A major, Op. 92
+Music: Ymphony No. 7 in A major, Op. 92
 Composer: Beethoven
 ---
 
@@ -13,13 +13,13 @@ Composer: Beethoven
 
 [Analysis of Art Depicting Illness/Disability]
 
-Work: Film The King's Speech (2010)
+Work : Film The King's Speech (2010)
 
-Music: Beethoven, Symphony No. 7 in A major, Op. 92 - 2nd Movement (Allegretto)
+Music : Beethoven, Symphony No. 7 in A major, Op. 92 - 2nd Movement (Allegretto)
 
-Composer: Ludwig van Beethoven (1770–1827)
+Composer : Ludwig van Beethoven (1770–1827)
 
-Context in the Work: [This piece is inserted into the film's climax, the scene where King George VI ("Bertie") delivers a radio address to the nation immediately following the outbreak of World War II.](https://youtu.be/PPLIw64rLJc?si=1vMZiqmAM2e5Rrx-) He suffered from a severe stutter (speech impediment) all his life, and this speech was his greatest challenge.
+Context in the Work : [This piece is inserted into the film's climax, the scene where King George VI ("Bertie") delivers a radio address to the nation immediately following the outbreak of World War II.](https://youtu.be/PPLIw64rLJc?si=1vMZiqmAM2e5Rrx-) He suffered from a severe stutter (speech impediment) all his life, and this speech was his greatest challenge.
 
 1. Inner Struggle and the Rejection of Mechanical Correction (Related to Week 10) The solemn rhythm (ostinato) of the second movement of Beethoven's Symphony No. 7 auditorily embodies the compulsive inner effort and anxious heartbeat of George VI as he summons all his mental strength to utter each syllable. Just as 19th-century orthopedics discussed in Week 10 attempted to forcibly correct bodies with devices like the 'Dactylion,' George VI is also forced into mechanical treatments, such as putting marbles in his mouth, early in the film. However, this music escalates not with a mechanical metronome beat, but with an organic flow resembling a human pulse. The rhythm, persistently carried by the lower strings, acts as an 'auditory cane' matching his arduous steps, implying the sublimation of disability not through mechanical correction but through human growth.
 
@@ -31,12 +31,12 @@ Context in the Work: [This piece is inserted into the film's climax, the scene w
 
 [My Funeral Music]
 
-Music: Franz Schubert, String Quartet No. 14 in D minor, D. 810 "Death and the Maiden", II. Andante con moto
+Music : Franz Schubert, String Quartet No. 14 in D minor, D. 810 "Death and the Maiden", II. Andante con moto
 
-YouTube Link: [Schubert - Death and the Maiden (String Quartet No. 14) - 2. Andante con moto](https://www.youtube.com/watch?v=EiGBYgAymi8&list=RDEiGBYgAymi8&start_radio=1)
+YouTube Link : [Schubert - Death and the Maiden (String Quartet No. 14) - 2. Andante con moto](https://www.youtube.com/watch?v=EiGBYgAymi8&list=RDEiGBYgAymi8&start_radio=1)
 
 
-Reason for Selection: As discussed in Week 12 regarding Matthias Claudius's poem and Schubert's music, death is depicted not as an object of terror, but as a "friend offering a hand" and a "sanctuary for sleeping softly." I hope my funeral will be remembered by those remaining not merely as a sorrowful event, but as a process of laying down life's fierce struggles and entering peaceful rest. The second movement of this quartet, composed while Schubert sensed his own mortality, traverses various emotions of life through its variation form, ultimately reaching a reconciliation with death. This resonates with the conclusion of life I aspire to.
+Reason for Selection : As discussed in Week 12 regarding Matthias Claudius's poem and Schubert's music, death is depicted not as an object of terror, but as a "friend offering a hand" and a "sanctuary for sleeping softly." I hope my funeral will be remembered by those remaining not merely as a sorrowful event, but as a process of laying down life's fierce struggles and entering peaceful rest. The second movement of this quartet, composed while Schubert sensed his own mortality, traverses various emotions of life through its variation form, ultimately reaching a reconciliation with death. This resonates with the conclusion of life I aspire to.
 
 
 
