@@ -17,6 +17,8 @@ The structural arc of Rachmaninoff’s music—dark low registers and unstable h
 
 Additionally, another film that deals with PTSD, similar to The Pianist, is Leave No Trace.
 
+The music I hope will be played at my funeral is [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=1OZDaRhHHyM&list=RD1OZDaRhHHyM&start_radio=1). The reason is that when I listen to it, it feels strangely sorrowful yet deeply moving. It’s also one of my all-time favorite pieces.
+
 <img src="./park-jeongeun.png" alt="Abstract image of PTSD" style="width:35%;" />
 
 # 피아니스트
@@ -29,3 +31,5 @@ Additionally, another film that deals with PTSD, similar to The Pianist, is Leav
 라흐마니노프 음악의 무거운 저음·불안한 화성 → 급격한 고조 → 안정된 흐름이라는 구조는 The Pianist 속 슈필만의 심리와 자연스럽게 맞물립니다. 초반의 불안정한 선율은 그의 공포와 PTSD의 혼란을 반영하고, 점차 고조되는 다이내믹은 생존을 위한 극도의 긴장을 드러냅니다. 마지막의 안정된 화성은 피아노 연주를 통해 인간적 존엄을 회복하는 순간과 대응하며, 그의 감정 회복 과정을 음악적으로 보여줍니다.
 
 추가적으로 피아니스와 같이 PTSD를 다룬 영화의 예로는 Leave No Trace가 있습니다.
+
+저의 장례식에서 연주되길 희망하는 음악은 [Merry Christmas Mr. Lawrence](https://www.youtube.com/watch?v=1OZDaRhHHyM&list=RD1OZDaRhHHyM&start_radio=1)입니다. 그 이유는 들었을 때 묘하게 슬프면서도 마음에 울림을 주기 때문입니다. 제가 정말 좋아하는 음악이기도 하기 때문입니다. 
