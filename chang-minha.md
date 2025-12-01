@@ -19,3 +19,9 @@ When compared with the drama [Extraordinary Attorney Woo](kim-junho.md), both te
 테아 샤록의 Me before You(2016)는 사고로 전신마비가 된 능력 있는 재력가 윌과 그의 간병인으로 취직한 밝고 활기찬 루이자가 윌의 조력 사망을 앞두고 서로에게 사랑에 빠지는 이야기이다. 이 영화의 main theme 중 하나는 Ed Sheeran(1991)의 Photograph이다. Phptograph는 사랑이 살아가면서 얼마나 큰 힘을 가지는지에 관한 곡이다. 둘이 멀어지더라도 사진 속 둘의 행복하던 때는 영원하며 이 모습을 가슴 속에 영원히 간직할 것을 노래한다. 이 음악은 루이자와 [윌이 윌의 전 여자친구와 친구의 결혼식에 참석해 함께 춤을 추는 장면](https://youtu.be/H_z63kWV-80?si=Kte5EtgepZjaRbFI)에서 배경음악으로 흐른다. 비록 윌의 휠체어 위에 나란히 앉아 사람들의 시선을 한몸에 받지만, 수많은 인파 속에서도 두 사람은 오직 서로에게만 집중하며 행복한 시간을 보낸다. 가사처럼 이 순간이 영원하지는 않겠지만, 두 사람의 마음속에는 마치 한 장의 사진처럼 언제까지나 선명하게 남을 것임을 느낄 수 있다. 윌의 아픔 마저도 사진 속에서는 그저 아름다운 추억의 한 부분으로 남을 것이다.
 
 드라마 [이상한 변호사 우영우](kim-junho.md)와 비교했을 때 두 글 모두 작품 속 장면이나 노래가 인물의 감정과 관계를 어떻게 드러내는지를 해석하며, 음악·상상이 단순한 배경 요소가 아니라 정서적 의미를 지닌다는 점을 강조한다. 하지만 앞선 글은 연인의 사랑과 추억의 지속성에 초점을 두는 반면, 우영우 글은 자폐 스펙트럼을 지닌 인물이 ‘상상’을 통해 자신을 보호하고 타인과 연결하는 방식에 초점을 둔다.
+
+# Wawa
+
+The music I would like to be played at my funeral is [“Wawa”](https://youtu.be/6ga1olx5c_Q?si=MXuLTY6xcgfqobXo) by Ha Hyunsang. It’s the song I’ve been enjoying and loving the most lately. The lyrics also express a desire to hold on to a childlike innocence in one’s heart, even when time passes and life becomes exhausting—something that resonates deeply with my own thoughts. Instead of playing a sad song, I would prefer a bright and uplifting one so that everyone can remember their memories with me as something joyful.
+
+나의 장례식에서 연주되길 바라는 음악은 하현상의 ["Wawa"](https://youtu.be/6ga1olx5c_Q?si=MXuLTY6xcgfqobXo)이다. 최근 들어 가장 즐겨 듣고 좋아하는 곡이기 때문이다. 또한 노래의 내용도 시간이 지나 세상에 지치더라도 마음 속 한 켠에 아이같은 천진난만함을 간직하고 싶다는 내용인데 이는 평소 내가 가지고 있는 생각과 비슷하기 때문이다. 장례식이라고 슬픈 노래를 틀기 보다는 모두가 나와의 추억을 즐거운 기억으로 회상할 수 있도록 밝은 분위기의 노래를 틀고 싶다. 
