@@ -23,6 +23,8 @@ Furthermore, if we apply the perspective of “auditory anamnesis” introduced 
 
  # The Reason
 The song I wish to be played at my funeral is [“The Reason”](https://www.youtube.com/watch?v=fV4DiAyExN0&list=RDfV4DiAyExN0&start_radio=1) by Hoobastank. It draws me in because it does not try to neatly beautify life, but instead looks straight at irreversible mistakes and regrets without turning away. Beginning with the confession “I’m not a perfect person” the lyrics quietly follow the process of acknowledging the hurt one has caused and accepting those wrong choices as one’s own responsibility, without excuses. The refrain “the reason is you” tells me that the wish to become a better person did not arise from some abstract resolution, but from the fact that there were concrete “you”s in my life. Through this song, I want to convey that my life was neither complete nor exemplary, yet I truly cherished certain people, and it was precisely because of them that I was able to hold on to the desire to change.
+
+Recalling the concept of relationality that we examined through sign language and Deaf culture in Week 11 makes the confession in this song even clearer. As Rachel Kolb points out, a single pointing finger toward another person is what makes it possible to say “you and I, he and she, they.” In the same way, the phrase “the reason is you” reveals that the self is not a sealed, independent entity, but something formed within relationships with others.
  
 
 
@@ -40,3 +42,5 @@ The song I wish to be played at my funeral is [“The Reason”](https://www.you
 
  # The Reason
 저의 장례식에서 연주되기를 바라는 곡은 후바스탱크(Hoobastank)의 [〈The Reason〉](https://www.youtube.com/watch?v=fV4DiAyExN0&list=RDfV4DiAyExN0&start_radio=1)입니다. 이 노래가 마음을 끄는 이유는, 인생을 깔끔하게 미화하지 않고 되돌릴 수 없는 실수와 후회를 끝까지 피하지 않고 바라본다는 점에 있습니다. “I'm not a perfect person”라는 고백으로 시작하는 가사는, 누군가에게 남긴 상처와 잘못된 선택을 변명 없이 자신의 책임으로 받아들이려는 과정을 담담하게 따라갑니다. 또한 후렴구의 “the reason is you”라는 가사는, 더 나은 사람이 되고 싶다는 마음이 추상적인 결심에서 나온 것이 아니라, 구체적인 당신들이 있었기 때문에 가능했다는 뜻으로 들립니다. 저는 이 노래를 통해, 제 삶이 결코 완전하지도 모범적이지도 않았지만, 그럼에도 불구하고 누군가를 소중히 여겼고, 바로 그 사람들이 있었기에 변화하고자 하는 마음을 품을 수 있었다는 사실을 전하고 싶습니다.
+
+11주차 수업에서 수어와 농문화 사례를 통해 살펴본 관계성(relationality) 개념을 떠올려 보면, 이 곡의 고백은 더욱 또렷해집니다. 레이철 콜브가 말하듯, 타자를 가리키는 손가락 하나가 “당신과 나, 그와 그녀, 그들”이라는 말을 가능하게 하듯이, “the reason is you”라는 문장은 나라는 존재가 타인과의 관계 속에서 구성된다는 사실을 드러냅니다.
