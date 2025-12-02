@@ -13,7 +13,7 @@ The main piece of music used in the film is [Frédéric Chopin’s Ballade No. 1
 
 In the climactic scene, when a German officer discovers Szpilman and, instead of killing him, asks him to play, Szpilman performs Ballade No. 1 even though his fingers are too stiff from hunger and cold to move properly. This physical limitation is depicted not simply as a symptom of illness or disability, but as the outcome of his extreme suffering — a trace of survival itself. The music that flows from his weakened body shows that even when the human body collapses, the flame of the spirit continues to burn. His trembling fingers on the piano keys, and the sound of Chopin’s melody resonating through the ruins, symbolize how art becomes the final stronghold of humanity in the midst of utter despair.
 
-In the musical [I Dreamed a Dream (Les Misérables)] (ki-hayoon.md), physical illness serves as a medium to reveal social pathology and psychological collapse, expressed through music as a nonverbal language. It conveys a spiritual testimony and artistic survival that transcend physical death.
+In the musical [I Dreamed a Dream (Les Misérables)](ki-hayoon.md), physical illness serves as a medium to reveal social pathology and psychological collapse, expressed through music as a nonverbal language. It conveys a spiritual testimony and artistic survival that transcend physical death.
 
 <img src="./yun-jueun.png" alt="The image abstractly expresses the inner suffering of the protagonist in the movie The Pianist." style="width:45%;" />
 
