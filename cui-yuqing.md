@@ -14,6 +14,7 @@ The warm, unembellished acoustic sound of <Photograph> evokes the happiest momen
 
 The song I want to be played at my funeral is Ariana Grande’s [ghostin](https://youtu.be/Rr7V4acsT2Y?si=m_jOHd5sHUSurWm2). This song captures a complex blend of sorrow, guilt, and love, reflecting the deep grief and affection Ariana felt after the death of her ex-boyfriend, Mac Miller, as well as the guilt she experienced toward her partner at the time.
 If this song were to be played at my funeral, I believe it would serve as a message to the people I leave behind—expressing the sorrow, guilt, love, and gratitude that I would no longer be able to convey with words. Moreover, “ghostin” is not merely a song that emphasizes sadness; it can also serve as a reminder to those who remain that I loved them, and that I hope they will remember that love.
+
 <img src="./cui-yuqing.png" alt="description" style="width:31%;" />
 
 # 미 비포 유
