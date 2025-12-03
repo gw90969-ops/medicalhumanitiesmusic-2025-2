@@ -21,7 +21,7 @@ After checking another text dealing with the movie [영화 <코다>](byeon-hyeju
 
 [영화 <코다>](byeon-hyejung.md)를 다룬 또 다른 글을 확인하고 스스로 피드백을 진행하며, 줄거리 정리를 넘어 음악과 영화의 관계, 그리고 음악의 의미를 수업 내용과 연결해 확장해 보았다. 우선, 2주차 강의 슬라이드에서 다룬 ‘지각’의 개념을 적용해 볼 수 있다. 루비의 아빠가 루비의 목에 손을 대고 성대의 울림을 통해 노래를 느끼는 장면은 ‘존재하는 것은 지각되는 것이다.’라는 명제를 떠올리게 한다. 루비의 노래는 청각적으로만 존재하는 것이 아니라 아빠의 손을 통해 진동이라는 촉각적 형태로 지각됨으로써 비로소 존재하게 된다. 따라서 이는 음악이 들리는 것을 넘어, 보이고 느껴지는 예술임을 역설하며 장애가 음악을 즐기는 데 있어 절대적인 장벽이 아님을 시사한다고 할 수 있다. 또한, 노래와 함께 수어를 통해 자신의 노래를 이어가는 루비의 모습은 5주차 강의 슬라이드의 ‘음악과 신체화’와 깊게 연관된다. 5주차 수업에서는 신체 없이는 고통도, 음악도 없음을 이야기하며 음악이 연주와 감상의 모든 부분에서 신체와 관련됨을 다루었다. 루비가 수어와 노래를 동시에 행하는 것은 단순히 가사를 전달하는 차원을 넘어서, 그녀가 겪어온 ‘고통’ 혹은 ‘삶의 무게’를 음악의 형식으로 표출해내는 과정이다. 마지막으로, 루비가 부르는 곡의 가사는 12주차 슬라이드에서 다루었던 ‘질환 서사’와 ‘탐구 서사’의 관점에서 해석할 수 있다. 탐구 서사의 정의와 관련하여, 루비는 침묵의 세상과 소리의 세상 사이에서 정체성의 혼란을 겪었지만 오디션에서 이 두 세계를 모두 포용하며 자신의 삶을 긍정한다. 루비의 노래는 그녀의 삶의 서사가 담긴 목소리였기에 듣는 이들로 하여금 공감의 울림을 줄 수 있었던 것이다. 결론적으로 루비의 노래는 소리로 듣는 이들에게는 감동을, 눈으로 듣는 이들에게는 전율을 선사하며 소통이란 감각기관의 문제가 아니라 "전달하고자 하는 의지"에 있음을 보여준다.
 
-보수동쿨러 Bosudong Cooler-0308(https://www.youtube.com/watch?v=WHhbac6PVqs&list=RDWHhbac6PVqs&start_radio=1)
+[보수동쿨러 Bosudong Cooler-0308](https://www.youtube.com/watch?v=WHhbac6PVqs&list=RDWHhbac6PVqs&start_radio=1)
 
 There is a part of the lyrics of the song that says there is nothing eternal, and I thought that trough this part, I would convey more naturally that it is a death that we must face someday. However, in the lyrics that we show each other that there will be no end, it seemed that I could let others know how we still cherish and think about each other.
 
