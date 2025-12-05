@@ -14,7 +14,7 @@ Keys to the Heart portrays the story of Jo-ha, a former boxer, and Jin-tae, his 
 
 In the drama [Extraordinary Attorney Woo](kim-junho.md), which also deals with savant syndrome, music is used in a different way. Through the lyrics of the OST “Imagination,” the audience comes to see Woo Young-woo’s autism not as something “inferior or wrong,” but as “another way of sensing and living in the world.” This atmosphere of gentle affection is conveyed through the string instruments that form the core of the piece. The melody, led primarily by the violin, creates a feeling reminiscent of a whale swimming through the ocean.
 
-The song I want to be played at my funeral is “For Good”[https://youtu.be/NLJ3jwuMY2k?si=e81tVEkLevM8Cvcx]from the musical Wicked. The lyrics — “Who can say if I’ve been changed for the better? / But because I knew you, I have been changed for good.” — resonate with me deeply. Throughout my life, I’ve met countless people whose presence has made my world more colorful.
+[The song I want to be played at my funeral](https://youtu.be/NLJ3jwuMY2k?si=e81tVEkLevM8Cvcx) is “For Good”[https://youtu.be/NLJ3jwuMY2k?si=e81tVEkLevM8Cvcx]from the musical Wicked. The lyrics — “Who can say if I’ve been changed for the better? / But because I knew you, I have been changed for good.” — resonate with me deeply. Throughout my life, I’ve met countless people whose presence has made my world more colorful.
 Whenever I hear this song, all the precious and grateful relationships in my life pass before me like a panorama.
 I feel that, as I come to the end of my life, this music would allow my story to be summarized in one final, meaningful moment.
 
@@ -28,4 +28,4 @@ I feel that, as I come to the end of my life, this music would allow my story to
 
 서번트 증후군을 다룬 드라마 [이상한 변호사 우영우](kim-junho.md)에서는 음악이 또 다른 방식으로 사용된다. 극의 ost인 <상상>의 가사를 통해서 우영우의 '자폐'가 '열등하고 잘못된' 것이 아닌, '세상을 다르게 감각하고 살아가는 또 하나의 존재 방식'이라고 보게 된다. 이러한 사랑에 관한 분위기는 곡 <상상>의 주를 이루는 현악기를 통해 표현된다. 선율은 바이올린을 위주로 진행되고 이에 따라 마치 고래가 바다를 헤엄치는 느낌을 표현한다.
 
-나의 장례식에서 재생되길 원하는 음악은 영화 위키드의 <for good>[https://youtu.be/NLJ3jwuMY2k?si=pPBEDzVAWgK_YbNx]이다. Who can say if I've been changed for the better?/But Because I knew you /I have been changed for good이라는 가사가 무척 와닿았다. 살아오면서 수많은 사람들과 인연이 되어 나의 삶이 다채롭게 꾸며졌다. 이 노래를 들으면 고맙고 소중했던 인연들이 파노라마처럼 스쳐지나가면서, 삶을 마감하는 데 있어서 한 편의 인생이 요약될 것 같다.
+[나의 장례식에서 재생되길 원하는 음악은](https://youtu.be/NLJ3jwuMY2k?si=pPBEDzVAWgK_YbNx) 영화 위키드의 "for good"이다. Who can say if I've been changed for the better?/But Because I knew you /I have been changed for good이라는 가사가 무척 와닿았다. 살아오면서 수많은 사람들과 인연이 되어 나의 삶이 다채롭게 꾸며졌다. 이 노래를 들으면 고맙고 소중했던 인연들이 파노라마처럼 스쳐지나가면서, 삶을 마감하는 데 있어서 한 편의 인생이 요약될 것 같다.
