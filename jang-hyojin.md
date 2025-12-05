@@ -18,6 +18,10 @@ Meanwhile, the drama Extraordinary Attorney Woo focuses on the daily life and gr
 
 <img src="./jang-hyojin.png" alt="abstract image of Schizophrenia" style="width:25%;" />
 
+# Music I would like to be played at my funeral: River Flows in You
+
+["River Flows in You"](https://youtu.be/7maJOI3QMu0?si=YU3ZwAjPT_j2XXGM) fits my wish that, after I am gone, people remember me not with a heavy or sorrowful atmosphere, but with a quiet and warm feeling. The gentle piano melody of this piece seems to convey the message that my life has flowed calmly like a river and is now moving naturally to its next stage. Instead of creating an overly sad mood, the song offers a soft sense of comfort, helping the people I loved remember me with a peaceful heart at my funeral. Since it is an instrumental piece without lyrics, it allows each person to quietly recall the moments we shared and their emotions in their own way. Ultimately, I chose this song because I hope that the final memory people hold of me will be serene, and I feel that the warm resonance of this music can express that wish most beautifully.
+
 # 뷰티풀 마인드 
 
 영화 A Beautiful Mind의 삽입곡 **〈All Love Can Be〉**는 조현병이라는 질병의 증상을 직접적으로 드러내기보다, 그로 인해 뒤틀린 현실 속에서도 여전히 존재하는 사랑과 인간성의 빛을 음악으로 드러내는 작품이다. 잔잔한 피아노와 반복되는 현악 선율은 내쉬의 내면을 휘감는 혼란과 불안을 상징하며, 샬럿 처치의 맑고 고요한 음성은 그 속에서 간신히 들려오는 이성의 목소리이자 그를 붙잡아 주는 치유의 손길처럼 다가온다. 특히 영화 후반부로 갈수록 음악이 차분하고 안정된 톤으로 변해가는데, 이는 환청과 환영 속에서도 현실을 선택하고자 하는 내쉬의 회복과 성숙한 결단을 조용히 반영한다.
@@ -27,3 +31,7 @@ Meanwhile, the drama Extraordinary Attorney Woo focuses on the daily life and gr
 조현병과 자폐스펙트럼장애는 서로 다른 임상적 특성을 지니지만, 신경발달 과정의 이상이라는 공통점을 바탕으로 일부 연관성이 제기되고 있다. 자폐스펙트럼장애가 영유아기부터 사회적 의사소통의 어려움과 반복행동으로 나타난다면, 조현병은 주로 청년기에 발병하여 환청·망상 등 정신병적 증상과 정서 둔마 같은 음성증상을 보인다. 그럼에도 두 질환은 사회적 기능 저하, 감각 처리의 비정상성, 실행기능의 어려움 등 인지 영역에서 일정 부분 유사성을 공유하며, 일부 유전적 위험 인자가 겹친다는 연구도 보고되고 있다. 그러나 발병 시기와 임상 양상, 치료 방식이 크게 다르기 때문에 명확한 구분은 필수적이다.
 
 한편, 드라마 [이상한 변호사 우영우](cheong-yunho.md)는 자폐 스펙트럼을 가진 주인공의 일상과 성장을 중심으로 신경다양성에 대한 사회적 이해를 촉구하는 작품이다. 주인공 우영우는 뛰어난 기억력과 논리적 사고를 지니지만 사회적 암묵지와 비언어적 표현의 해석에는 어려움을 보이며, 이를 통해 자폐인이 마주하는 편견과 구조적 제약이 현실적으로 그려진다. 더불어 그가 자신의 방식으로 주변과 소통하며 관계를 확장해 나가는 모습은 자폐 스펙트럼이 결함이 아닌 고유한 인지적 다양성임을 보여주며, 다양성을 포용하는 사회의 중요성을 일깨운다.
+
+# 내 장례식에서 틀었으면 좋겠는 음악 : River flows in you
+
+River Flows in You는 내가 떠난 뒤에도 사람들이 나를 떠올릴 때 너무 무겁거나 비통한 분위기보다는, 조용하고 따뜻한 감정을 느꼈으면 하는 내 바람과 가장 잘 맞는 곡이다. 이 음악의 부드러운 피아노 선율은 마치 내 삶이 강물처럼 고요하게 흘러왔고, 또 자연스럽게 다음 단계로 이어진다는 메시지를 전하는 듯하다. 과하게 슬픈 분위기 대신 잔잔한 위로를 건네는 이 곡은, 내가 사랑했던 사람들이 장례식 자리에서 편안한 마음으로 나를 기억할 수 있도록 도와줄 것 같다. 특히 가사가 없는 연주곡이기 때문에, 각자 나와 함께한 순간들을 조용히 떠올리며 자신의 방식으로 감정을 정리할 수 있는 여유도 준다. 내가 이 노래를 선택한 이유는 결국 ‘나에 대한 마지막 기억이 평온했으면 좋겠다’는 마음에서 비롯되며, 이 곡의 따뜻한 울림이 그 바람을 가장 아름답게 담아낼 수 있다고 느껴지기 때문이다.
