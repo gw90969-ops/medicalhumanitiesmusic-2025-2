@@ -16,6 +16,10 @@ There is another film that talks about war trauma and human dignity,[The Pianist
 
 <img src="./lee-ahhyun.PNG" alt="Abstract image of schizophrenia" style="width:40%;" />
 
+# Knees
+
+The music I would like to have played at my funeral is IU’s [Knees](https://www.youtube.com/watch?v=SfeaTW4bcAw). The line "Do not wake me, I will be in a very deep sleep" creates an image of peaceful rest, which fits the moment well. The song remains calm and understated, so it does not overwhelm listeners. Its soft and simple melody blends naturally into the atmosphere. The lyrics focus on quiet rest rather than strong emotional expression, which keeps the mood steady. The overall tone helps people stay calm and gives them space to reflect. For these reasons, it matches the way I hope the final moment can be remembered.
+
 # 뷰티풀 마인드
 
 영화 뷰티풀 마인드는 천재 수학자 존 내쉬가 조현병과 함께 살아가는 과정을 담은 작품이다. 현실과 환각 사이에서 흔들리던 그는 사랑을 통해 자신을 받아들이고 조금씩 균형을 되찾는다. 제임스 호너의 주제곡 A Kaleidoscope of Mathematics는 반복되는 리듬과 대칭적인 선율을 통해 수학적 질서와 내면의 혼란을 동시에 드러낸다. 피아노와 현악이 교차하며 만들어내는 불안한 화성은 내쉬가 느끼는 긴장을 표현하고, 여성 보컬의 허밍은 머릿속에서 스쳐 지나가는 환청처럼 여리게 퍼져나간다. 이 음악은 병 자체의 공포보다, 내쉬가 마주했던 감정의 복잡함과 인간적인 면을 따뜻하게 담아낸다. 
@@ -23,4 +27,8 @@ There is another film that talks about war trauma and human dignity,[The Pianist
 [영화에서 가장 인상적인 장면 중 하나](https://www.youtube.com/watch?v=LJS7Igvk6ZM)는 바에서 존 내쉬가 경쟁보다 협력이 더 나은 결과를 만든다는 깨달음을 얻는 순간이다. 그는 현실과 환각 사이에서 끊임없이 흔들리며 조현병과 싸우고 있지만, 이런 순간들을 통해 스스로의 사고를 정리하고 자신만의 질서를 찾아가려 한다. 결국 알리시아의 사랑과 지지를 바탕으로 내쉬는 자신의 상태를 받아들이고 삶의 균형을 되찾아 간다. 이러한 흐름은 그의 천재성과 인간적인 나약함이 어떻게 공존하는지를 깊이 있게 보여준다.
 
 전쟁 속 트라우마와 인간의 존엄을 다루는 또 다른 영화 [The Pianist](jang-daehyeok.md)가 있다. 이 작품에서는 쇼팽의 Ballade No.1 in G minor가 중요한 역할을 한다. 극적인 명암 대비와 흔들리는 템포는 스필만이 느끼는 두려움, 상실, 그리고 살아남기 위한 마지막 의지를 음악으로 보여준다. 특히 감정의 파동이 그대로 드러나는 격정적인 흐름은 내쉬의 음악이 가진 수학적 구조와는 다른, 훨씬 직접적이고 폭발적인 표현 방식이다. 두 작품 모두 음악을 단순한 배경음이 아니라 주인공의 심리와 상황을 자연스럽게 드러내는 장치로 사용한다는 점에서 공통점을 가진다. 다만 A Beautiful Mind가 반복과 균형으로 ‘내면의 혼란을 정리해 보여주는’ 방식이라면, The Pianist는 감정을 그대로 드러내는 강한 대비로 주인공의 현실을 더욱 선명하게 전달한다.
+
+# 무릎
+
+장례식에서 듣고 싶은 음악은 아이유의 [무릎](https://www.youtube.com/watch?v=SfeaTW4bcAw)입니다. 특히 "깨우지 말아요 아주 깊은 잠을 잘거예요" 라는 가사가 평온하게 쉬어가는 모습을 떠올리게 해서 이 순간과 잘 어울립니다. 노래가 전체적으로 조용하게 흐르며 감정이 과하지 않아 듣는 사람들에게 부담을 주지 않습니다. 멜로디도 단순하고 부드러워 배경처럼 자연스럽게 스며듭니다. 가사 전반이 강한 메시지를 전달하기보다 조용한 휴식을 표현해 분위기를 흐리지 않습니다. 노래의 톤이 안정적이라 사람들을 차분하게 만들고 생각을 정리할 시간을 줍니다. 그래서 마지막을 담담하고 조용하게 마무리하고 싶은 제 취향과 잘 맞는 곡입니다.
 
