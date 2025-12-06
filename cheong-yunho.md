@@ -29,7 +29,7 @@ Lines like “You are a dancing tree, and the rough music inside is me” expres
 
 #  장례식에서 연주되길 희망하는 음악
 
-저는 제 장례식에서 지나치게 무겁고 슬픈 분위기보다는, 제가 살아온 시간들을 따뜻하게 떠올릴 수 있는 음악이 흐르길 바랍니다. 카더가든의 는 담담하고 ["나무"](https://www.youtube.com/watch?v=cHkDZ1ekB9U&list=RDcHkDZ1ekB9U&start_radio=1), 마음을 단단하게 만들어주는 위로가 담겨 있는 곡입니다.
+저는 제 장례식에서 지나치게 무겁고 슬픈 분위기보다는, 제가 살아온 시간들을 따뜻하게 떠올릴 수 있는 음악이 흐르길 바랍니다. 카더가든의 ["나무"](https://www.youtube.com/watch?v=cHkDZ1ekB9U&list=RDcHkDZ1ekB9U&start_radio=1)는 담담하고 조용하지만, 마음을 단단하게 만들어주는 위로가 담겨 있는 곡입니다.
 
 가사 속 “그대 춤을 추는 나무 같아요 / 그 안에 투박한 음악은 나예요” 같은 표현은 제가 완벽하지 않은 존재였더라도, 주변 사람들과 함께 흔들리고 성장하며 살아왔다는 느낌을 담고 있어 장례식의 마지막 모습으로 어울린다고 생각했습니다.
 
