@@ -14,7 +14,7 @@ This work shares similarities with [Marathon](ji-dain2.md) in its warm portrayal
 
 <img src="./cheong-yunho.png" alt="Abstract image of Autism Spectrum Disorder" style="width:30%;" />
 
-# The music I hope to be played at my funeral
+# The Music I Hope To Be Played At My Funeral
 
 For my funeral, I prefer music that brings warmth rather than overwhelming sadness. [“Tree”](https://www.youtube.com/watch?v=cHkDZ1ekB9U&list=RDcHkDZ1ekB9U&start_radio=1) by Car, the Garden carries a quiet sense of comfort. Its gentle melody and poetic lyrics remind listeners that life, though imperfect, was full of growth, connection, and small but meaningful moments.
 
