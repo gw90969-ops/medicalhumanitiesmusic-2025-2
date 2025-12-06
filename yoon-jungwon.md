@@ -25,3 +25,9 @@ My Chemical Romance의 ["Cancer"](https://www.youtube.com/watch?v=wc2s9skF_58)�
 비슷한 맥락에서, 장 시벨리우스의 사례는 질병이 예술로 승화된 또 다른 예라 할 수 있다. 그는 후두암 진단과 여러 차례의 수술 이후, 재발과 죽음에 대한 공포 속에서 [교향곡 제4번(1911)](an-yeeun.md)을 작곡했다. 시벨리우스의 작품이 두려움과 불확실성 속에서 음악적 균형을 찾으려는 시도였다면, “Cancer”는 쇠퇴하는 신체를 받아들이는 정서적 균형을 보여준다. 두 작품 모두 질병을 낭만화하지 않고, 고통과 두려움을 내면적 성찰의 미학으로 전환한다. 두 작품을 함께 고려하면, 질병이 단순한 비극의 소재가 아니라 인간의 취약성과 죽음 앞에서 의미를 찾으려는 노력에 대한 예술적 통찰을 제공하는 동력임을 확인할 수 있다. 더 나아가, 질병에서 비롯된 음악은 청중을 단순한 감상자가 아니라 고통을 통해 형성된 삶의 이야기를 듣는 ‘서사의 청자’로 초대한다. 이러한 작품들은 질병의 내적 풍경을 은유와 소리로 번역하며, 고통이 들리고 해석되고 공유될 수 있는 공간을 마련한다.
 
 # Music for my funeral
+
+I would choose ["Merry-Go-Round of Life"](https://www.youtube.com/watch?v=f7SS57LFPco) by Joe Hisaishi to be played at my funeral because I don’t want death to be framed as a dramatic tragedy. This music invites people to see the end of life not with overwhelming sorrow, but as a natural part of life’s ongoing cycle. The repeating waltz rhythm feels like the circular flow of living—moving forward, returning, and continuing—quietly reminding listeners that departure, too, is a chapter within life’s larger pattern. For me, this piece holds a gentle warmth and momentum that reflects my story without sinking into heaviness, and that is how I hope to be remembered.
+
+# 내 장례식의 음악
+
+나는 장례식에서 히사이시 조의 ["인생의 회전목마"](https://www.youtube.com/watch?v=f7SS57LFPco)를 틀고 싶은데, 그 이유는 죽음을 특별한 비극으로 강조하고 싶지 않기 때문이다. 이 음악은 삶의 끝을 깊은 슬픔이 아니라, 자연스러운 순환의 한 과정으로 받아들이게 한다. 왈츠의 반복되는 흐름은 마치 삶이 이어지고 되돌아오고 다시 흘러가는 리듬처럼 느껴져, 떠남조차 삶의 일부였다는 사실을 조용히 상기시킨다. 그래서 이 곡은 애도의 무게를 지나치게 드러내지 않으면서도, 내가 살아온 이야기의 온기와 움직임을 품은 음악으로 남아주길 바란다.
