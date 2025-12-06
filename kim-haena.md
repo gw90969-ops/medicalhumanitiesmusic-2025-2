@@ -6,15 +6,14 @@ The inserted image intuitively reveals Yoon Seo-jung’s inner turmoil. Despite 
 
 Similarly, “My Time,” the ending theme of [OMORI](woo-seunghun.md) (2020), is a piece that sonically embodies trauma and psychological collapse. On the surface, the song features a bright and cheerful electronic pop melody, yet it plays during the scene in which the protagonist fails to overcome his past wounds and guilt, ultimately falling into despair. “My Time” uses a deceptively upbeat synth tone layered with a repetitive, almost mechanical beat that gradually destabilizes; this rhythmic disintegration foreshadows the breakdown that later erupts into glitch noise. The lyric “Close your eyes... Oyasumi” symbolizes a distorted sense of comfort that frames death as a form of rest, while the gradual breakdown of the melody into glitch-like noise in the latter half of the track audibly represents the process of the self being destroyed by trauma. Both works portray an inner journey of confronting or evading trauma through music; however, while Yoon Seo-jung’s story moves toward healing and recovery, OMORI concludes with collapse and hopelessness, presenting a starkly contrasting emotional trajectory.
 
-# Music I Hope to Be Played at My Funeral
-
-Kihyun’s song [Youth](https://youtu.be/NxzawQKdqzM?si=uvJJdboUir-J7Tsi) carries an energy from the very first guitar riff that makes you feel as if you could start running, evoking the image of youth striving toward its goals. The song captures the complex emotions of youth—where confusion and hope coexist—and it reminds me of both the hardships and the joys in my own life. I want this song played at my funeral because it is the most honest reflection of the time I’ve spent growing amidst excitement and uncertainty. The song is infused with the kind of inner conflict of growth and youth that anyone can relate to. Not only the lyrics but also the music itself conveys this journey—from the hopeful guitar riff at the beginning to the “woah–oh–oh” section in the latter half of the chorus, which bursts out like an expression of pent-up frustration and worry. In the final part of the track, the guitar riff settles into a calmer tone, acknowledging that all these conflicts are a natural part of life and ultimately concluding with the sense that everything will turn out alright. To me, this song is like my final portrait, a condensed journey of shaping myself while moving through pain.
-
-
 
 <img src="./kim-haena.png" alt="Abstract image of PTSD" width="300" height="400" />
 
 
+
+# Music I Hope to Be Played at My Funeral
+
+Kihyun’s song [Youth](https://youtu.be/NxzawQKdqzM?si=uvJJdboUir-J7Tsi) carries an energy from the very first guitar riff that makes you feel as if you could start running, evoking the image of youth striving toward its goals. The song captures the complex emotions of youth—where confusion and hope coexist—and it reminds me of both the hardships and the joys in my own life. I want this song played at my funeral because it is the most honest reflection of the time I’ve spent growing amidst excitement and uncertainty. The song is infused with the kind of inner conflict of growth and youth that anyone can relate to. Not only the lyrics but also the music itself conveys this journey—from the hopeful guitar riff at the beginning to the “woah–oh–oh” section in the latter half of the chorus, which bursts out like an expression of pent-up frustration and worry. In the final part of the track, the guitar riff settles into a calmer tone, acknowledging that all these conflicts are a natural part of life and ultimately concluding with the sense that everything will turn out alright. To me, this song is like my final portrait, a condensed journey of shaping myself while moving through pain.
 
 
 # 낭만닥터 김사부
@@ -24,6 +23,10 @@ Kihyun’s song [Youth](https://youtu.be/NxzawQKdqzM?si=uvJJdboUir-J7Tsi) carrie
 또한, 삽입된 이미지는 윤서정의 내면 갈등을 직관적으로 드러낸다. 본인의 의지와는 달리, 과거의 트라우마를 극복하지 못하게 만드는 다양한 감정과 기억들이 뒤엉켜 있으며, 동시에 이를 이겨내려는 의지가 오른쪽에 자리한 꽃과 환한 빛, 그리고 초록빛 정원 바닥을 통해 은은하게 드러난다. 이 상반된 두 감정 사이에서, 성장하며 극복하려는 의지가 결국 승리해 수술실에서 수술을 성공적으로 마친 윤서정을 보여주는 음악이 바로 'Hope of Hospital'이며, 이 장면을 가장 잘 대변한다.
 
 비슷하게, [OMORI](woo-seunghun.md) (2020)의 엔딩곡 My Time 역시 트라우마와 내면 붕괴를 음악으로 표현한 작품이다. 이 곡은 겉보기에는 밝고 경쾌한 일렉트로닉 팝 멜로디를 띠지만, 주인공이 과거의 상처와 죄책감을 이기지 못하고 절망에 빠지는 장면에서 재생된다. 특히 이 곡은 경쾌한 신스와 반복적인 비트가 점차 흔들리고 일그러지는 음향적 변형을 통해, 표면의 밝음 아래서 내부의 균열이 서서히 확장되는 느낌을 만들어낸다. “Close your eyes... Oyasumi(눈을 감아... 잘 자)”라는 가사는 죽음을 휴식처럼 포장하는 왜곡된 긍정을 상징하며, 곡의 후반부에서 멜로디가 점차 글리치 노이즈처럼 붕괴되는 구조는 트라우마가 자아를 무너뜨리는 과정을 청각적으로 보여준다. 두 작품 모두 음악을 통해 인물의 트라우마를 직면하거나 회피하는 내면의 여정을 그리지만, 윤서정의 이야기가 치유와 회복으로 나아가는 반면, OMORI는 붕괴와 절망으로 끝난다는 점에서 상반된 정서를 보여준다.
+
+
+<img src="./kim-haena.png" alt="Abstract image of PTSD" width="300" height="400" />
+
 
 
 # 장례식에서 연주되길 희망하는 음악 
