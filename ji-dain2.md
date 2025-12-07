@@ -22,13 +22,13 @@ Ultimately, Marathon employs music as a device that “records and transforms pa
 한편, 애니메이션 영화 [퍼펙트 블루](bae-minseok.md)는 공황과 정신적 붕괴를 전혀 다른 방식으로 재현한다. 이 작품은 푸코가 말한 ‘광기의 담론’과 긴밀하게 연결된다. 푸코에 따르면 광기는 단순한 개인의 이상이 아니라, 사회가 배제하고 통제하기 위해 구성한 범주인데, <퍼펙트 블루>는 이 경계를 붕괴시키는 연출을 통해 ‘정상’이라고 여겨지는 일상 자체가 얼마나 취약한 기반 위에 놓여 있는지를 드러낸다.청각적으로 이 영화는 불협화음, 저주파음, 과장된 환경음을 적극 활용한다. 이는 관객에게 안정된 청취 환경을 제공하기 위한 음악이 아니라, 신체적 불안과 공포를 유발하는 ‘침입적 사운드’로 작동한다.
 결국 〈말아톤〉은 음악을 통해 고통을 ‘기억하고 전환하는 장치’로 활용하며, 〈퍼펙트 블루〉는 음악을 통해 고통을 ‘파괴적으로 증폭시키는 장치’로 활용한다. 이 대비는 질병과 장애가 단순히 개인의 문제를 넘어, 사회적 규범, 권력, 정상성의 체계 속에서 어떻게 다르게 의미화되는지를 드러낸다.
 
-#ONE MORE TIME
+# ONE MORE TIME
 The song I wish to be played at my funeral is [One More Time](https://youtu.be/OgEwJ8a1OoY?si=TMwRDsYR2_hAsC65) by All Day Project. I chose this song because I do not want my funeral to be filled only with sadness, but to become a moment for people to look back on life and remember the precious time we shared together.
 The title “One More Time” literally means “just once more,” and it reminds people of their last greetings, last conversations, and last smiles with someone they love. Rather than focusing on the pain of separation, this song encourages those who remain to quietly reflect on the memories we created together. I believe a funeral should not be only a place of mourning, but also a space for gratitude and reflection, and this song represents that idea well.
 The gentle mood of the song carries a subtle warmth and hope. Instead of creating an atmosphere that is overwhelmingly heavy, it leaves a calm and lingering emotion. This matches my values, as I would like people to remember not my death, but the life I lived and the moments we shared. I hope that, through this song, the people I love can think, “The time we spent together was truly meaningful.”
 For these reasons, “One More Time” is the song I would most like to be played at my funeral.
 
-#원모어타임
+# 원모어타임
 내 장례식에서 연주되기를 희망하는 곡은 올데이프로젝트의 [One More Time](https://youtu.be/OgEwJ8a1OoY?si=TMwRDsYR2_hAsC65)이다. 이 곡을 선택한 이유는 ‘마지막 이별’이라는 상황을 슬픔으로만 채우기보다, 삶을 한 번 더 되돌아보고 소중한 사람들과의 시간을 떠올리게 만드는 메시지를 담고 있기 때문이다.
 〈One More Time〉이라는 제목은 직역하면 ‘한 번만 더’라는 의미를 가진다. 이는 떠나는 사람의 입장이 아닌, 남겨진 사람들의 입장에서 마지막 인사, 마지막 대화, 마지막 웃음을 떠올리게 한다. 장례식이라는 공간이 단순히 죽음을 애도하는 자리가 아니라, 함께한 기억을 되새기고 삶의 의미를 다시 생각하는 시간이 되기를 바라는 마음에서 이 곡이 적합하다고 생각했다.
 또한 이 곡은 차분한 분위기 속에서도 미묘한 희망과 따뜻함이 느껴지는 곡으로, 과도하게 무겁기보다는 조용히 마음에 남는 여운을 만들어 준다. 이는 ‘죽음’ 자체보다 ‘살아온 시간’과 ‘함께했던 순간’에 초점을 맞추고 싶다는 나의 가치관과 맞닿아 있다. 눈물만 흐르는 장례식이 아니라, 잠시 미소 지을 수 있는 장례식을 원한다는 생각이 이 곡을 선택하게 된 가장 큰 이유이다.
