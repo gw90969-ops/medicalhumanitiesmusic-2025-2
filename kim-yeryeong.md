@@ -6,6 +6,9 @@ Disease: general paralysis
 ICD: I-10
 ---
 
+![image](https://postfiles.pstatic.net/MjAyMTAxMThfMjY3/MDAxNjEwOTM2NTQxOTM5.6xhGV5ObGhbuE7wKb6YiB3K12bqQAhUaJUUYWD_rnRAg.60X3VDk2NDEadjcY8GAx0s2fe7zAniKiXwB7P_Y2q8Ug.JPEG.junhyeok48/IMG_4137.jpg?type=w773)
+
+
 # [Me Before You](https://www.sisunnews.co.kr/news/articleView.html?idxno=225974)
 
 The film Me Before You, based on Jojo Moyes' novel, features a soundtrack that delicately supports the emotional journey of Will Traynor, a wealthy quadriplegic, and Louisa Clark, his quirky caregiver. Key tracks include "Unsteady (Erich Lee Gravity Remix)" by X Ambassadors, which provides a stripped-down, string-laden version of the original to underscore the film's poignant moments, particularly those dealing with Will's internal struggle. And also, “Unsteady (Erich Lee Gravity Remix)” uses a repetitive low-string arpeggio and a restrained beat to convey a sense of fragility and tension. The slightly irregular rhythm mirrors the instability implied by the title [“Unsteady”](https://youtu.be/FGdaSDwKPG8?si=KIVhoZWj2zC-KpMN).
