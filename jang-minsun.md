@@ -16,6 +16,10 @@ Both works musically portray themes of tragic fate, inner suffering, and liberat
 
 The piece I hope will be played at my funeral is [Mahler’s Symphony No. 5](https://youtu.be/vOvXhyldUko?si=EWvBPptajDkWD2uo) I feel that this work captures the width and depth of a human life, and it reflects the way I have lived—energetically and with passion. Beginning with a tragic introduction, passing through the intense flow of life, and finally arriving at the warm, loving “Adagietto,” the structure of the symphony feels like the journey of a single life. It does not speak only of sorrow; rather, it brings out the many emotions one experi
 
+The emergence of orthopedics established a culture that viewed the body structurally and codified the idea of “proper posture.” This medical perspective also influenced the representation of bodies in art, encouraging audiences to interpret performers’ breathing, movements, and physical tension through a binary of “normal” and “abnormal.” As a result, the weakened bodies of Violetta and Fantine are perceived not merely as pathological conditions but as forms deviating from social norms, which intensifies the symbolic weight of their illness.
+The narrative nature shared by illness and music further deepens the interpretation of both works. Illness generates an inner story that permeates an individual’s life, while music reconstructs this story through temporal structure and emotional flow. The arias of Violetta and Fantine depict the progression from suffering to collapse and acceptance through shifts in musical texture and tonal character, revealing that illness is not just a theme but a narrative device that exposes emotional truth.
+Late style is often regarded as the culmination of artistic maturity, yet it frequently embodies dissonance and unresolved tension. From this perspective, the final moments of Violetta and Fantine do not present serene acceptance but instead expose the fractures of life and the pressures of society. Their deaths thus become moments of artistic tension that leave lingering, unresolved questions rather than simple conclusions to their tragedies.
+
 
 
 <img src="./jang-minsun.png" alt="description" style="width:40%;" />
@@ -31,3 +35,7 @@ The piece I hope will be played at my funeral is [Mahler’s Symphony No. 5](htt
 두 작품 모두 결핵이라는 육체적 소멸을 통해 비극적 운명, 내면적 고통, 그리고 죽음을 초월한 해방이라는 주제를 음악적으로 형상화하지만, 오페라와 뮤지컬이라는 장르적 차이에 따라 접근 방식이 다르다. 《라 트라비아타》는 극적 서정성과 성악 중심의 음악으로 비올레타의 영적 변화를 강조하는 반면, 《레 미제라블》은 극적 내러티브와 감정 중심의 뮤지컬 넘버를 통해 판틴의 사회적·정서적 추락을 직접적으로 드러낸다. 이처럼 두 작품은 서로 다른 음악 언어를 사용하지만, 결핵이라는 소재를 통해 인간의 고통과 구원을 조명한다는 점에서 공통된 예술적 기능을 수행한다.
 
 내가 장례식에서 연주되길 바라는 곡은 [말러 교향곡 5번](https://youtu.be/vOvXhyldUko?si=EWvBPptajDkWD2uo)이다. 이 작품은 한 사람의 삶을 넓고 깊게 담아낸 음악이라고 느껴서, 평소 열정적으로 살아온 나의 모습을 가장 자연스럽게 보여줄 수 있다고 생각한다. 비극적인 서주에서 시작해 치열한 생의 흐름을 지나, 따뜻한 사랑을 담은 ‘아다지에토’로 이어지는 구성은 마치 한 삶의 여정처럼 다가온다. 이 곡은 슬픔만을 말하지 않고, 살아 있는 동안 겪는 다양한 감정을 고르게 드러내기 때문에, 나를 기억하는 자리에서 가장 어울리는 음악이라고 생각한다.
+
+정형외과학의 탄생은 신체를 구조적으로 이해하고 ‘올바른 자세’를 규범화하는 문화를 형성했다. 이러한 의학적 관점은 예술 속 신체 표현에도 영향을 주어, 무대 위 인물의 호흡·움직임·긴장도를 ‘정상’과 ‘비정상’의 기준으로 읽어내는 시선을 만들었다. 그 결과 비올레타와 판틴의 쇠약한 몸은 단순한 병적 상태를 넘어 사회적 규범에서 이탈한 신체로 인식되며, 질병의 상징성이 한층 강화된다.
+질병과 음악이 공유하는 서사성 또한 두 작품의 이해를 깊게 만든다. 질병은 개인의 삶을 관통하는 내적 이야기를 만들어내고, 음악은 이를 시간적 구조와 감정의 흐름으로 재현한다. 비올레타와 판틴의 아리아는 고통·붕괴·수용이라는 과정을 음악적 질감과 정조 변화로 보여주며, 질병이 단순한 소재가 아니라 정서적 진실을 드러내는 서사적 장치임을 보여준다.
+말년 양식은 흔히 성숙의 완성으로 보이지만, 실제로는 종종 불협화와 미해결성을 특징으로 한다. 이 관점에서 비올레타와 판틴의 마지막 장면은 평온한 수용이 아니라, 삶의 균열과 사회적 억압이 드러나는 말년적 표현으로 읽힌다. 따라서 그들의 죽음은 비극의 종결을 넘어, 해결되지 않은 질문을 남기는 예술적 긴장의 순간으로 이해될 수 있다.
