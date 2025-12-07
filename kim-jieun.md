@@ -2,7 +2,7 @@
 Title: Pierrot Lunaire
 year: 1912
 Genre: Music
-Disease: schizophrenia
+Disease: Schizophrenia
 ICD: F20.0
 ---
 
