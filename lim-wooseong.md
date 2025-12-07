@@ -14,7 +14,7 @@ Keys to the Heart portrays the story of Jo-ha, a former boxer, and Jin-tae, his 
 
 In the drama [Extraordinary Attorney Woo](kim-junho.md), which also deals with savant syndrome, music is used in a different way. Through the lyrics of the OST “Imagination,” the audience comes to see Woo Young-woo’s autism not as something “inferior or wrong,” but as “another way of sensing and living in the world.” This atmosphere of gentle affection is conveyed through the string instruments that form the core of the piece. The melody, led primarily by the violin, creates a feeling reminiscent of a whale swimming through the ocean.
 
-[The song I want to be played at my funeral](https://youtu.be/NLJ3jwuMY2k?si=e81tVEkLevM8Cvcx) is “For Good”[https://youtu.be/NLJ3jwuMY2k?si=e81tVEkLevM8Cvcx]from the musical Wicked. The lyrics — “Who can say if I’ve been changed for the better? / But because I knew you, I have been changed for good.” — resonate with me deeply. Throughout my life, I’ve met countless people whose presence has made my world more colorful.
+[The song I want to be played at my funeral](https://youtu.be/NLJ3jwuMY2k?si=e81tVEkLevM8Cvcx) is “For Good" from the musical Wicked. The lyrics — “Who can say if I’ve been changed for the better? / But because I knew you, I have been changed for good.” — resonate with me deeply. Throughout my life, I’ve met countless people whose presence has made my world more colorful.
 Whenever I hear this song, all the precious and grateful relationships in my life pass before me like a panorama.
 I feel that, as I come to the end of my life, this music would allow my story to be summarized in one final, meaningful moment.
 
