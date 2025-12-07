@@ -16,6 +16,8 @@ This is the link to the [soundtrack playlist](https://youtu.be/XfLziwOCfMk?si=r7
 
 <img src="./kim-chaewon.png" alt="Abstract image of brain tumour and family love" style="width:50%;" />
 
+I hope [Clair de Lune by Claude Debussy](https://youtu.be/-Bxpm0EmOMU?si=adYWdZhCR67LzLT5) will be played at my funeral. Rather than amplifying sorrow, this piece creates a gentle, calming atmosphere with its delicate piano melody, offering a sense of peace at the end of life. What I wish to leave behind for those I loved is not overwhelming sadness, but a feeling of gratitude and warm remembrance. It's soft, moonlit serenity feels like the most beautiful way to close the final chapter of my life.
+
 # 더 북 오브 헨리
 
 영화 더 북 오브 헨리 (The Book of Henry, 2017)는 신경계 질환과 정신적 트라우마를 주제로 한 작품으로, 음악은 마이클 지아키노(Michael Giacchino, 1967년 10월 10일 출생 – 생존)가 작곡했다. 천재 소년 헨리는 신경계 질환을 앓으며 어머니 수전과 함께 살아가던 중, 이웃 소녀가 학대당하는 사실을 알게 된다. 그는 소녀를 구하기 위한 세밀한 계획을 세우지만 병세가 악화되어 세상을 떠나고, 어머니는 남겨진 책 속 계획을 따라 아들의 뜻을 완성해 나간다. 영화의 음악은 가사가 없는 순수 기악곡으로, 느린 템포와 단조의 조성을 통해 헨리의 육체적 쇠약과 감정적 절망을 표현한다. 반복되는 피아노 선율은 시간이 멈춘 듯한 무력감을 상징하고, 현악기의 부드러운 화음은 어머니의 슬픔 속에서도 피어나는 수용과 회복의 감정을 그린다. 지아키노는 언어로 표현되지 않는 고통과 감정의 흔들림을 악기의 리듬과 음색 변화로 드러내며, 침묵 속에서도 관객이 인물의 내면을 깊이 공감하게 만든다.
@@ -23,4 +25,6 @@ This is the link to the [soundtrack playlist](https://youtu.be/XfLziwOCfMk?si=r7
 이 문단은 시벨리우스의 [교향곡 4번 가단조, 작품번호 63](an-yeeun.md)을 설명한 내용이다. 시벨리우스는 후두암 진단과 반복된 수술 이후 재발과 전이에 대한 불안 속에서 교향곡 4번을 작곡했다. 이 작품은 불협화음인 트라이톤(증4도)을 중심으로 어둡고 긴장된 분위기를 만들며, 저음 현악기의 불안정한 음색은 신체적·심리적 균형이 흔들리는 상태를 암시한다. 마지막 악장에서도 긴장은 해소되지 않은 채 음악이 차갑게 사라지듯 끝나는데, 이는 죽음의 공포 속에서 완전한 안식을 찾지 못한 그의 내면을 드러낸 것으로 해석된다. 이 작품은 가사 없이 기악적 요소만으로 질병과 심리 상태를 표현한다는 점에서 The Book of Henry와 유사하다.그러나 두 작품에서 사용된 특정 음악 기법을 더 자세히 비교하면 질병 묘사 간의 연관성을 더욱 강화할 수 있습니다.
 
 [사운드트랙 재생 목록](https://youtu.be/XfLziwOCfMk?si=r70eLgz_TOXTcf-t) 링크입니다
+
+저는 제 장례식에서 드뷔시의 [Clair de Lune](https://youtu.be/-Bxpm0EmOMU?si=adYWdZhCR67LzLT5)이 연주되기를 바랍니다. 이 곡은 과도한 슬픔을 강조하기보다는, 잔잔한 피아노 선율을 통해 삶의 마지막 순간을 부드럽고 평온하게 감싸주는 느낌을 줍니다. 음악이 흐르는 동안 사랑했던 사람들에게 제가 남기고 싶은 정서는 ‘슬픔보다 감사’, ‘이별보다 따뜻한 기억’입니다. 이 곡의 빛처럼 은은한 분위기가 제 인생의 조용한 마무리를 아름답게 표현해줄 것이라 생각합니다.
 
