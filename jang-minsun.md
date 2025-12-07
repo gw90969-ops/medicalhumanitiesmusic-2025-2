@@ -14,6 +14,8 @@ Another work dealing with tuberculosis, [Les Misérables](ki-hayoon.md), deepens
 
 Both works musically portray themes of tragic fate, inner suffering, and liberation beyond death through the physical decline caused by tuberculosis, yet their approaches differ according to the conventions of opera and musical theatre. 《La Traviata》 taemphasizes Violetta’s spiritual transformation through lyrical expressiveness and vocally driven writing, whereas 《Les Misérables》 depicts Fantine’s social and emotional downfall more directly through dramatic narrative and emotionally charged musical numbers. Despite employing different musical languages, both works ultimately serve a shared artistic function by using the motif of tuberculosis to illuminate human suffering and the possibility of spiritual redemption.
 
+The piece I hope will be played at my funeral is [Mahler’s Symphony No. 5](https://youtu.be/vOvXhyldUko?si=EWvBPptajDkWD2uo) I feel that this work captures the width and depth of a human life, and it reflects the way I have lived—energetically and with passion. Beginning with a tragic introduction, passing through the intense flow of life, and finally arriving at the warm, loving “Adagietto,” the structure of the symphony feels like the journey of a single life. It does not speak only of sorrow; rather, it brings out the many emotions one experi
+
 
 
 <img src="./jang-minsun.png" alt="description" style="width:40%;" />
@@ -27,3 +29,5 @@ Both works musically portray themes of tragic fate, inner suffering, and liberat
 결핵을 다루고 있는 다른 작품 [레 미제라블](ki-hayoon.md)은 뮤지컬로 각색되면서 판틴의 비극을 음악적으로 심화시킨다. 베르디의 오페라에서 비올레타가 「Addio del passato」로 영적 순화를 노래하듯이, 《레 미제라블》 속 판틴의 아리아 「I Dreamed a Dream」과  「Come to Me」 역시 고통 속에서 과거를 회상하고 죽음을 맞는 순간을 섬세하게 그려낸다. 이 곡들은 화려함이 걷힌 잔잔하고 애절한 선율과 느린 호흡을 사용해서 인물의 쇠약해진 상태와 비극적 운명을 청각적으로 형상화한다. 판틴의 임종 장면 음악은 그녀가 겪은 사회적 고통을 넘어선 영적 해방과 구원을 암시하는데, 이는 두 작품 모두에서 결핵이 육체적 소멸을 통해 숭고한 희생과 사랑의 승화라는 동일한 예술적 메시지를 전달하는 음악적 장치로 기능함을 보여준다.
 
 두 작품 모두 결핵이라는 육체적 소멸을 통해 비극적 운명, 내면적 고통, 그리고 죽음을 초월한 해방이라는 주제를 음악적으로 형상화하지만, 오페라와 뮤지컬이라는 장르적 차이에 따라 접근 방식이 다르다. 《라 트라비아타》는 극적 서정성과 성악 중심의 음악으로 비올레타의 영적 변화를 강조하는 반면, 《레 미제라블》은 극적 내러티브와 감정 중심의 뮤지컬 넘버를 통해 판틴의 사회적·정서적 추락을 직접적으로 드러낸다. 이처럼 두 작품은 서로 다른 음악 언어를 사용하지만, 결핵이라는 소재를 통해 인간의 고통과 구원을 조명한다는 점에서 공통된 예술적 기능을 수행한다.
+
+내가 장례식에서 연주되길 바라는 곡은 [말러 교향곡 5번](https://youtu.be/vOvXhyldUko?si=EWvBPptajDkWD2uo)이다. 이 작품은 한 사람의 삶을 넓고 깊게 담아낸 음악이라고 느껴서, 평소 열정적으로 살아온 나의 모습을 가장 자연스럽게 보여줄 수 있다고 생각한다. 비극적인 서주에서 시작해 치열한 생의 흐름을 지나, 따뜻한 사랑을 담은 ‘아다지에토’로 이어지는 구성은 마치 한 삶의 여정처럼 다가온다. 이 곡은 슬픔만을 말하지 않고, 살아 있는 동안 겪는 다양한 감정을 고르게 드러내기 때문에, 나를 기억하는 자리에서 가장 어울리는 음악이라고 생각한다.
