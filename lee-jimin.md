@@ -24,7 +24,7 @@ I look at the works introduced here through this report, even though they are no
 나는 이번 리포트를 통해 여기서 소개한 작품들을 보면 완전한 건강체가 아닌데도 불구하고 숭고하고 오히려 더 아름다워 보인다. 이런 다양한 아름다움을 수용하는 장애미학이 더 알려지며 확산되면 좋겠다고 생각한다.  
 
 
+
 The music I hope to be played at the funeral is ['I' Novel](https://www.youtube.com/watch?v=payms8xKibc&list=RDpayms8xKibc&start_radio=1) by the Japanese band RADWIMPS. The first time I heard this was in high school, and it was so hard, and I could not love myself, denying my existence. This was the song that my friend luckily told me at that time. This song is about thinking and expressing life like a novel, and I was shocked to see the lyrics, "Even if there is a past that I want to hide or tear, I am not attracted to stories that are not dirty," and I was able to change my way of thinking. I chose this song because I wanted it to be a life song and I hope it will help someone in the future.
 
 나는 장례식에서 연주되길 희망하는 음악은 일본 밴드 RADWIMPS의 ['I' Novel](https://www.youtube.com/watch?v=payms8xKibc&list=RDpayms8xKibc&start_radio=1)이다. 나는 이거를 처음 들은 게 고등학생 때였는데 너무 힘들었고 자신의 존재를 부정하고 자신을 사랑하지 못했다. 그때 친구가 운연히 알려준 노래가 이거였다. 이 노래는 인생을 소설처럼 생각하고 표현한 곡인데 가사 중 "숨기고 싶은, 찢어버리고 싶은 과거가 있다 해도 때묻지 않은 이야기 따위 나는 끌리지 않아"라는 가사를 보고 충격을 받아 나는 사고방식을 바꿀 수 있었다. 나는 이 노래가 인생곡이 되었고 앞으로도 이 노래를 통해 누군가에게 힘이 되었으면 좋겠어서 이 노래를 선정했다. 
-
