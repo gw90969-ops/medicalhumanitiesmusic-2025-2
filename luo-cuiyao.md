@@ -14,6 +14,8 @@ The chosen work is the movie Twilight (2008), which centers around the love betw
 
 In another film about depression [pianist](yun-jueun.md ), music is used in a different way.
 
+If it were my funeral, I would choose Nick Cave's ['To Be By Your Side'](https://youtu.be/P0v9vd4JEeo?si=Xi7cY7b5rskuL_j8) as the music. The reason is that the song feels like a promise of steadfast companionship, transcending time and space.
+
 <img src="./luo-cuiyao.PNG" alt="Abstract image of Depression" style="width:33%;" />
 
 # 트와일라잇(Twilight)
@@ -23,3 +25,5 @@ In another film about depression [pianist](yun-jueun.md ), music is used in a di
 [시리즈 중에서 내가 제일 좋아하는 영화 부분.](https://youtu.be/0spuYf3xHjw?si=o-zZowlDeaCkvUfz)
 
 우울증을 다루는 또 다른 영화 [피아니스트](yun-jueun.md)에서는 음악이 다른 방식으로 사용된다.
+
+내 장례식에 저는 Nick Cave의 ['To Be By Your Side'](https://youtu.be/P0v9vd4JEeo?si=Xi7cY7b5rskuL_j8)를 배경음악으로 사용하고 싶습니다. 이유는 이 노래가 시간과 공간을 초월한 변함없는 동행을 약속하는 느낌을 주기 때문입니다.
