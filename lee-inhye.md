@@ -1,0 +1,32 @@
+---
+Title: Me Before You
+Year: 2016
+Genre: Movie
+Disease: Disability
+ICD: G82.2
+---
+
+# Me Before You
+
+Me Before You (2016) features Ed Sheeran’s [“Photograph”](https://youtu.be/nSDgHBxUbVQ?si=yCYzVQ150opUhavG) and “Thinking Out Loud.” The film tells the story of Will Traynor, who becomes paralyzed after an accident and loses the desire to live, until Louisa, a cheerful caregiver, enters his life. As their bond deepens, Will still chooses to end his life, unable to overcome his pain. “Photograph” accompanies scenes of their shared memories, suggesting that love remains even when time passes. “Thinking Out Loud” highlights their emotional closeness beyond physical limits. The music portrays disability not as simple loss, but as a space where deeper love and humanity can emerge. Sheeran’s gentle voice expresses the warmth Will retains, and the peace Louisa brings him. The songs remind us that love can be enduring and sincere, even in sorrow.
+
+A film that explores illness in a way similar to Me Before You is [James Marsh’s The Theory of Everything](lee-jaehyuk.md). It depicts the life of physicist Stephen Hawking, who, despite being diagnosed with ALS, discovers meaning in life and experiences personal growth through love. Jóhann Jóhannsson’s “Arrival of the Birds & Transformation” symbolizes Hawking’s consciousness and emotions expanding beyond his physical limitations through gradually layered piano and string arrangements. Like Me Before You, the film examines how illness or disability influences human relationships and emotional development. However, while Me Before You portrays tragedy amid love and loss, The Theory of Everything highlights hope and inner strength through love, marking a key difference between the two.
+
+
+
+<img src="./lee-inhye.png" alt="Abstraction of disability" style="width:33%;" />
+
+Week 3 focused on the experience of subjective 'Illness' and the Illness Narrative, moving beyond objective 'Disease.' Will's choice in Me Before You was an illness narrative reflecting inner loss, while Hawking's growth in The Theory of Everything demonstrated a powerful narrative of rediscovering life's meaning through love. Week 5 discussed music's role in the Sublimation of Pain through the question, "Can pain be expressed through music?" The music by Ed Sheeran and Jóhann Jóhannsson conveyed genuine emotions beyond language, non-materializing painful experiences and transforming them aesthetically to record Will's peace or Hawking's expansion of consciousness. Week 7 emphasized the importance of 'Aural Shift' and 'Ethical Listening.' Will's existential suffering in Me Before You resembled an 'unsounded scream,' and music required the audience to ethically listen to his choice. The Theory of Everything showed love being completed through Ethical Listening that transcended sound, within the aural shift of Hawking communicating via artificial voice.
+
+The selection of [Boys Like Girls' 'The Great Escape'](https://youtu.be/nSDgHBxUbVQ?si=yCYzVQ150opUhavG) for my funeral was explained as the most beautiful and hopeful way to declare that I had finally achieved complete liberation from all the constraints and pain of this world. The song's cheerful and explosive punk-pop energy served to celebrate that I was starting a new journey in a state of eternal freedom, rather than inviting sadness. This music functioned as a mechanism to guide those remaining to remember their relationship with me not through grief, but through the bright and dynamic memories and the brilliant times of youth we shared. Ultimately, this selection indicated that my life was successful, and it was intended to function as a final cheer, giving those left behind courage and hope to move forward into the future once again.
+
+# 미 비포 유
+
+영화 <미 비포 유>에는 에드 시런의 [Photograph](https://youtu.be/nSDgHBxUbVQ?si=yCYzVQ150opUhavG)와 Thinking Out Loud가 사용되어 이야기의 감정선을 부드럽게 이끈다. 사고로 전신 마비가 된 윌 트레이너는 삶의 의욕을 잃고 세상과 거리를 두지만, 밝고 따뜻한 성격의 간병인 루이자를 만나면서 다시 감정을 느끼기 시작한다. 두 사람은 함께 시간을 보내며 서로에게 큰 위로가 되지만, 윌은 끝내 장애로 인한 상실감을 극복하지 못하고 삶을 스스로 마무리하기로 결정한다. Photograph는 두 사람이 여행을 떠나거나 작은 순간을 함께 기록하는 장면에 삽입되어, 짧은 시간이더라도 그 기억이 오래도록 마음속에 남는다는 점을 강조한다. 반면 Thinking Out Loud는 신체적 한계를 넘어 서로의 마음이 진심으로 닿는 순간에 흐르며, 사랑이 외형이나 조건에 의해 규정되지 않는다는 메시지를 전달한다.
+이 음악들은 장애를 단순한 결핍으로만 바라보지 않고, 그 안에 존재하는 인간적인 따뜻함과 감정의 깊이를 드러내는 역할을 한다. 에드 시런의 부드러운 기타 선율과 감성적인 목소리는 윌이 끝까지 지니고 있던 온기와, 루이자의 사랑이 그에게 마지막 평화를 가져다주었다는 사실을 조용하지만 강하게 표현한다. 음악은 결국, 사랑이 비극 속에서도 여전히 진실하고 지속된다는 것을 보여준다.
+
+<미 비포 유> 와 비슷하게 질병을 다루고 있는 작품은 [제임스 마시 감독의 <사랑에 대한 모든 것>](lee-jaehyuk.md)이다. 루게릭병에 걸린 천재 물리학자 스티븐 호킹이 사랑을 통해 삶의 의미를 발견하고 내면적으로 성장하는 과정을 그린다. 요한 요한손의 “Arrival of the Birds & Transformation”은 피아노와 현악기의 점진적 층으로 호킹의 의식과 감정이 신체적 제약을 넘어 확장되는 모습을 상징한다. 이 영화는 <미 비포 유>와 마찬가지로, 질병이나 장애가 인간관계와 감정의 형성에 어떻게 영향을 미치는지를 탐구한다. 다만, 미 비포 유가 사랑과 상실 속 비극을 보여준다면, <사랑에 대한 모든 것>은 사랑을 통해 희망과 내적 강인함을 드러낸다는 점에서 차이를 보인다.
+
+3주차에서는 객관적인 '질병'을 넘어 인간이 겪는 주관적인 '질환'의 경험과 질환서사에 주목했다. <미 비포 유>의 윌의 선택은 내면적 상실감이 투영된 질환서사였으며, <사랑에 대한 모든 것>의 호킹의 성장은 사랑을 통한 삶의 의미 재발견이라는 강력한 질환서사를 보여주었다. 5주차에서는 "고통은 음악으로 표현될 수 있는가?"라는 질문을 통해 음악의 고통 승화 역할을 논했다. 두 영화 속 에드 시런과 요한 요한손의 음악은 언어적 한계를 넘어선 진실된 감정을 전달했으며, 고통스러운 경험을 비물질화하고 미학적 영역으로 변형하여 윌의 평화나 호킹의 의식 확장을 기록했다. 7주차에서는 '청각적 전환'과 '윤리적 청취'의 중요성을 강조했다. <미 비포 유>에서 윌의 실존적 고통은 '소리 없는 비명'과 같았으며, 음악은 관객에게 그의 선택을 윤리적으로 청취하도록 요구했다. <사랑에 대한 모든 것>은 호킹이 인공적인 소리로 소통하는 청각적 전환 속에서 사랑이 소리를 초월하여 진실된 마음을 듣는 윤리적 청취를 통해 완성됨을 보여주었다.
+
+내가 장례식에서 연주되길 희망하는 음악은 [Boys Like Girls의 'The Great Escape'](https://youtu.be/JGPgxoIPY6Q?si=uEUiD5xnTvihtnIf)이다. 이 곡의 경쾌하고 폭발적인 펑크 팝 에너지는 슬픔에 잠기는 대신, 내가 영원히 자유로운 상태가 되어 새로운 여행을 시작했음을 축복하는 역할을 부여했다. 이 음악은 남겨진 이들에게 나와의 관계를 슬픔이 아닌, 함께 나눈 밝고 역동적인 추억과 찬란했던 청춘의 시간으로 기억하도록 이끌어주는 장치로 작용했다. 궁극적으로 이 선곡은 내 삶이 성공적이었음을 나타내며, 남은 이들에게도 다시 미래를 향해 나아갈 용기와 희망을 주는 마지막 응원가로 기능하도록 의도했다.
